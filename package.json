@@ -1,0 +1,19 @@
+{
+  "name": "robot-on-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.9.4",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.3.2"
+  }
+}
